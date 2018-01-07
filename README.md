@@ -2,7 +2,7 @@
 Mouseye is an application which simulates mouse click events through eye blinks using OpenCV with the help of imutils and dlib libraries.
 
 ---------------------------------
-#### To run:
+### To run:
 
 Run facial_keypoints.py by adding the arguments as the path to the image and the path to the facial landmark predictor.
 
